@@ -57,10 +57,10 @@ Each song has a unique Spotify ID. The dataset includes the following fields:
 
 ### 4. Cluster Analysis
 
-- [x] Determine a suitable number of clusters using appropriate evaluation methods.
-- [x] Apply suitable clustering algorithms to the prepared song features.
-- [x] Describe and interpret each cluster using the features that distinguish it.
-- [x] Summarize the findings and explain what the clusters reveal about the songs.
+- [ ] Determine a suitable number of clusters using appropriate evaluation methods.
+- [ ] Apply suitable clustering algorithms to the prepared song features.
+- [ ] Describe and interpret each cluster using the features that distinguish it.
+- [ ] Summarize the findings and explain what the clusters reveal about the songs.
 
 ## Tools and Technologies
 
