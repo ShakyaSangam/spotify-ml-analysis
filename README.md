@@ -29,3 +29,35 @@ Each song has a unique Spotify ID. The dataset includes the following fields:
 | `valence` | Measure of the musical positivity conveyed by a track, from 0 to 1 |
 | `popularity` | Spotify popularity score, from 0 to 100 |
 | `duration_ms` | Track duration in milliseconds |
+
+## Project Objectives
+
+### 1. Initial Data Inspection and Cleaning
+
+- [x] Inspect the dataset and understand its structure.
+- [x] Identify and handle duplicate records.
+- [x] Check for missing or null values.
+- [x] Identify irrelevant entries and potential outliers.
+- [x] Check for incorrect or inconsistent values and correct them where appropriate.
+
+### 2. Data Preparation
+
+- [x] Refine the dataset based on the findings from the initial inspection.
+- [x] Prepare the relevant features for exploratory analysis and machine learning.
+- [x] Document any columns removed, transformed, or retained and explain why.
+
+### 3. Exploratory Data Analysis (EDA) and Feature Engineering
+
+- [x] Use suitable visualizations to identify two albums that could be recommended based on the number of popular songs.
+- [x] Explore song audio features and identify meaningful patterns.
+- [x] Investigate the relationship between song popularity and other features.
+- [x] Examine how these relationships may vary across albums or release periods.
+- [x] Apply feature engineering where useful and explain the decisions.
+- [x] Apply dimensionality reduction and discuss its purpose, impact, and observations.
+
+### 4. Cluster Analysis
+
+- [x] Determine a suitable number of clusters using appropriate evaluation methods.
+- [x] Apply suitable clustering algorithms to the prepared song features.
+- [x] Describe and interpret each cluster using the features that distinguish it.
+- [x] Summarize the findings and explain what the clusters reveal about the songs.
