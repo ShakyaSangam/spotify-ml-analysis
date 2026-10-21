@@ -71,3 +71,27 @@ The tools used in this project can be documented here as the analysis develops. 
 - Matplotlib and Seaborn for visualizations
 - scikit-learn for preprocessing, dimensionality reduction, and clustering
 - Jupyter Notebook for analysis
+
+## Key Findings
+
+Add your final findings here after completing the analysis. Include:
+
+- The two recommended albums and the evidence supporting the recommendation.
+- Important patterns found in the audio features.
+- The main observations about popularity and its relationship with other features.
+- The effect of dimensionality reduction on the data.
+- The selected clustering approach, number of clusters, and interpretation of each cluster.
+
+## How to Run
+
+1. Clone or download this repository.
+2. Install the required Python libraries.
+3. Open the analysis notebook in Jupyter Notebook or JupyterLab.
+4. Update the dataset path if needed.
+5. Run the notebook cells in order.
+
+Example installation command (adjust to the libraries actually used):
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+```
