@@ -61,3 +61,13 @@ Each song has a unique Spotify ID. The dataset includes the following fields:
 - [x] Apply suitable clustering algorithms to the prepared song features.
 - [x] Describe and interpret each cluster using the features that distinguish it.
 - [x] Summarize the findings and explain what the clusters reveal about the songs.
+
+## Tools and Technologies
+
+The tools used in this project can be documented here as the analysis develops. For example:
+
+- Python
+- pandas and NumPy for data preparation
+- Matplotlib and Seaborn for visualizations
+- scikit-learn for preprocessing, dimensionality reduction, and clustering
+- Jupyter Notebook for analysis
